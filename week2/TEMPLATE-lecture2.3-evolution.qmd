@@ -28,6 +28,7 @@ This template follows [lecture 2.3 slides](https://eds-240-data-viz.github.io/co
 library(tidycensus)
 library(tidyverse)
 library(gghighlight)
+library(scales)
 
 #..........................import data...........................
 lyme <- read_csv(here::here("week2", "data", "Lyme_Disease_Cases_by_State_or_Locality.csv"))
