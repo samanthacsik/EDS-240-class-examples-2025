@@ -1,2 +1,3 @@
-# EDS-240-class-examples-2025
-for winter 2025
+# In-class code-along exercises for EDS 240 (w25)
+
+
