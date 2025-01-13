@@ -1,7 +1,7 @@
 ---
 title: "Lecture 2.2 TEMPLATE"
 subtitle: "Visualizing distributions"
-author: "Your Name"
+author: "Sam Shanny-Csik"
 date: 2025-01-13
 toc: true
 ---
